@@ -1,0 +1,17 @@
+.myProjects {
+    background-color: floralwhite;
+}
+
+.projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 100%;
+    border: 1px solid;
+}
+
+h1 {
+    color: #932d2d;
+}
+
+
